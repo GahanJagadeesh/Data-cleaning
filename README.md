@@ -1,8 +1,5 @@
 # Data-cleaning
-Small data cleaning project for Blockchain technical round
-
-Name : Gahan Jagadeesh
-Email: gj717@nyu.edu
+Manipulating data using Pandas to make it easier to analyze.
 
 ## Project notebook
 
